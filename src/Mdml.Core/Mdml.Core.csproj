@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="Markdig" Version="1.3.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\themes\default.html" LogicalName="mdml.themes.default.html" />
+    <EmbeddedResource Include="..\..\themes\github.html" LogicalName="mdml.themes.github.html" />
+  </ItemGroup>
+</Project>

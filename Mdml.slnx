@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Mdml.Cli/Mdml.Cli.csproj" />
+    <Project Path="src/Mdml.Core/Mdml.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Mdml.Cli.Tests/Mdml.Cli.Tests.csproj" />
+    <Project Path="tests/Mdml.Core.Tests/Mdml.Core.Tests.csproj" />
+  </Folder>
+</Solution>
